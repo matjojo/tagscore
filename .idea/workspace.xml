@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="634239f9-f814-4f4c-850a-8b40151d97b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/MypyConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mypy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Update_scores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/tagscore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_file.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hydrus-tagscore/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mypy.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="d6a1b4f2-1369-4b1f-8fe9-41a84129cb0e" />
+  <component name="ProjectId" id="1jkcx78IMVBx8L5Kan9ZroaQxJE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hydrus-tagscore/main.py" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="aHydrus" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="634239f9-f814-4f4c-850a-8b40151d97b4" name="Default Changelist" comment="" />
+      <created>1604351773541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604351773541</updated>
+      <workItem from="1604351774733" duration="165000" />
+      <workItem from="1604351953355" duration="371000" />
+      <workItem from="1604352335157" duration="4639000" />
+      <workItem from="1604356989009" duration="139000" />
+      <workItem from="1604357142206" duration="54000" />
+      <workItem from="1604357340385" duration="183000" />
+      <workItem from="1604357530858" duration="14798000" />
+      <workItem from="1604426183698" duration="5334000" />
+      <workItem from="1604442116175" duration="193000" />
+      <workItem from="1604442322787" duration="5371000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="427" width="714" height="202" key="#Custom_Plugin_Repositories" timestamp="1604442392785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="563" y="427" width="714" height="202" key="#Custom_Plugin_Repositories/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604442392785" />
+    <state x="552" y="178" key="#Inspections" timestamp="1604353591955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604353591955" />
+    <state x="552" y="178" key="#Notifications" timestamp="1604353539565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Notifications/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604353539565" />
+    <state x="559" y="201" key="#Plugins" timestamp="1604442427621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="559" y="201" key="#Plugins/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604442427621" />
+    <state x="582" y="338" key="#Plugins/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604352324815" />
+    <state x="700" y="388" key="#Project_Settings" timestamp="1604444213986">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="388" key="#Project_Settings/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604444213986" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604353072935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604353072935" />
+    <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1604442246030">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="707" y="375" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604442246030" />
+    <state x="739" y="274" key="FileChooserDialogImpl" timestamp="1604442414867">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="274" key="FileChooserDialogImpl/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604442414867" />
+    <state x="2659" y="274" key="FileChooserDialogImpl/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604351870537" />
+    <state width="1877" height="172" key="GridCell.Tab.0.bottom" timestamp="1604447094737">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.bottom/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604447094737" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604427682462" />
+    <state width="1877" height="172" key="GridCell.Tab.0.center" timestamp="1604447094731">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.center/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604447094731" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604427682460" />
+    <state width="1877" height="172" key="GridCell.Tab.0.left" timestamp="1604447094729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.left/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604447094729" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604427682460" />
+    <state width="1877" height="172" key="GridCell.Tab.0.right" timestamp="1604447094734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="172" key="GridCell.Tab.0.right/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604447094734" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604427682461" />
+    <state x="540" y="255" key="IDE.errors.dialog" timestamp="1604357168767">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="255" key="IDE.errors.dialog/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604357168767" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1604424319902">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604357072099" />
+    <state x="2381" y="162" key="SettingsEditor/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604351939018" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604424319902" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1604357142366">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604357142366" />
+    <state x="2576" y="344" key="com.intellij.ide.util.TipDialog/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604352335500" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604442332788">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604442332788" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/-1920.1.1920.1040/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1604352156364" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604427423493" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tagscore$Update_scores.coverage" NAME="Update scores Coverage Results" MODIFIED="1604447094717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hydrus-tagscore" />
+  </component>
+</project>
